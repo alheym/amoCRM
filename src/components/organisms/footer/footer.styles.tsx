@@ -8,7 +8,7 @@ export const Component = styled.div`
 `
 
 export const Wrapper = styled.div`
-  height: 19.6875rem;
+  height: 15.75rem;
   width: 100%;
   margin-top: 4.3125rem;
   padding-top: 3.4375rem;
