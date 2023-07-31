@@ -16,3 +16,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" title="Styled components" alt="Styled components " width="40" height="40"/>&nbsp;
 </div>
+
+## Netlify
+
+[1 task](https://chimerical-caramel-63022a.netlify.app/)  
+
+[2 task](https://stirring-manatee-1237e9.netlify.app/)
