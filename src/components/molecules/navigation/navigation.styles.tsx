@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom'
 
 import { colorText, colorHover } from '../../../constants'
 
-export const Wrapper = styled.div`
+export const Wrapper = styled.nav`
   display: flex;
   flex-direction: row;
   justify-content: space-between;
